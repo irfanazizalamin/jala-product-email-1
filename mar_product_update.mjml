@@ -1,0 +1,217 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Open Sans" href="https://fonts.googleapis.com/css?family=Open+Sans" />
+    <mj-preview>
+      Berbudidaya udang semakin mudah dengan aplikasi mobile Jala. Catat, pantau, dan kelola kualitas air, pakan, sampling, panen serta operasional budidaya lainnya melalui genggaman anda.
+    </mj-preview>
+    <mj-title>Pantau tambak udang Anda, dengan aplikasi mobile JALA</mj-title>
+    <mj-style>
+
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#f9f9f9" width="480px">
+    <mj-section>
+      <mj-column>
+        <mj-image href="https://jala.tech" width="100px" src="https://res.cloudinary.com/rachepd/image/upload/v1548828341/emails/jala-logo.png" alt="" />
+        </mjcolumn>
+    </mj-section>
+
+    <mj-section background-color="#fafafa" padding-top="0">
+      <mj-column width="100%">
+        <mj-text font-size="24px" font-weight="800" font-family="Open Sans" color="#454F63" line-height="24px" align="center" padding="10px 15px">
+          Apa saja yang baru di Maret ?
+        </mj-text>
+        <mj-text font-size="15px" font-weight="600" font-family="Open Sans" color="#454F63" line-height="24px" align="center" padding="10px 15px">
+          Bulan ini, kami telah menambahkan beberapa fitur baru ke dalam aplikasi Jala, antara lain adalah Peta lokasi harga udang, tren harga udang di berbagai daerah dan lainnya.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-divider border-width="30px" border-color="#f9f9f9" width="450px"></mj-divider>
+
+
+    <mj-section padding="0px" border-radius="5px" background-color="#fff">
+      <mj-column width="100%">
+        <mj-image src="https://res.cloudinary.com/astrochimp/image/upload/v1553229053/Email%20User%20Jala/peta_harga_udang.gif" alt="" border-radius="5px" padding="0" />
+        <mj-text font-size="20px" font-weight="600" font-family="Open Sans" color="#454F63" line-height="24px" align="center" padding="25px 15px">
+          Peta lokasi harga udang
+        </mj-text>
+        <mj-text font-size="15px" font-family="Open Sans" color="#454F63" line-height="24px" align="center" padding="10px 15px">
+          Pencarian harga udang terbaru jadi lebih mudah dengan peta lokasi harga udang Jala. Cukup tekan harga udang pada peta untuk melihat detail harga
+        </mj-text>
+        <mj-button border="1px solid #1B77DF" padding-top="20px" vertical-align="middle" background-color="#1B77DF" font-family="Open Sans" width="275px" color="#fff" font-size="15px" padding-bottom="30px" border-radius="35px" font-weight="600" href="https://app.jala.tech/harga_udang" target="_blank">
+          Lihat Harga Udang
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-divider border-width="30px" border-color="#fafafa" width="450px"></mj-divider>
+
+    <mj-section padding="0px" border-radius="5px" background-color="#fff">
+      <mj-column width="100%">
+        <mj-image src="https://res.cloudinary.com/astrochimp/image/upload/v1553507627/Email%20User%20Jala/unnamed.png" alt="" border-radius="5px" padding="0" />
+        <mj-text font-size="20px" font-weight="600" font-family="Open Sans" color="#454F63" line-height="24px" align="center" padding="25px 15px">
+          Aplikasi Mobile Jala v 0.4.0 (beta)
+        </mj-text>
+        <mj-text font-size="15px" font-family="Open Sans" color="#454F63" line-height="24px" align="center" padding="10px 15px">
+          Update dan download segera aplikasi mobile Jala anda ke versi terbaru.
+          Update versi ini berfokus pada perbaikan performa aplikasi dan beberapa bug dari versi sebelumnya.
+        </mj-text>
+        <mj-button border="1px solid #1B77DF" padding-top="20px" vertical-align="middle" background-color="#1B77DF" font-family="Open Sans" width="275px" color="#fff" font-size="15px" padding-bottom="30px" border-radius="35px" font-weight="600" href="https://play.google.com/store/apps/details?id=tech.jala.android" target="_blank">
+          Download Aplikasi
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-divider border-width="30px" border-color="#fafafa" width="450px"></mj-divider>
+
+    <mj-section padding="0px" border-radius="5px" background-color="#fff">
+      <mj-column width="100%">
+        <mj-image src="https://res.cloudinary.com/astrochimp/image/upload/v1553506656/Email%20User%20Jala/grafik_harga_udang.gif" alt="" border-radius="5px" padding="0" />
+        <mj-text font-size="20px" font-weight="600" font-family="Open Sans" color="#454F63" line-height="24px" align="center" padding="25px 15px">
+          Grafik perkembangan harga udang
+        </mj-text>
+        <mj-text font-size="15px" font-family="Open Sans" color="#454F63" line-height="24px" align="center" padding="10px 15px">
+          Ketahui riwayat dan perkembangan harga udang di tiap daerah.
+        </mj-text>
+        <mj-button border="1px solid #1B77DF" padding-top="20px" vertical-align="middle" background-color="#1B77DF" font-family="Open Sans" width="275px" color="#fff" font-size="15px" padding-bottom="30px" border-radius="35px" font-weight="600" href="https://app.jala.tech/harga_udang" target="_blank">
+          Lihat Grafik Harga
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-divider border-width="30px" border-color="#fafafa" width="450px"></mj-divider>
+
+    <mj-section padding="0px" border-radius="5px" background-color="#fff">
+      <mj-column width="100%">
+        <mj-image src="https://res.cloudinary.com/astrochimp/image/upload/v1552969457/Email%20User%20Jala/lengkapi_data.png" alt="" border-radius="5px" padding="0" />
+        <mj-text font-size="20px" font-weight="600" font-family="Open Sans" color="#454F63" line-height="24px" align="center" padding="25px 15px">
+          Lengkapi Informasi Akun JALA anda
+        </mj-text>
+        <mj-text font-size="15px" font-family="Open Sans" color="#454F63" line-height="24px" align="center" padding="10px 15px">
+          Lengkapi informasi nomor handphone dan nama lengkap anda untuk mendapatkan informasi budidaya, harga udang, kabar udang terbaru dengan lebih cepat langsung ke handphone dan WhatsApp tanpa harus membuka aplikasi Jala.
+        </mj-text>
+        <mj-button background-color="#25D366" width="70%" font-weight="500" font-size="18px" border-radius="35px" href="https://api.whatsapp.com/send?phone=6281215922866&text=Verifikasi%20Nomor%20JALA" target="_blank"><i class="fa fa-2x fa-whatsapp m-r-sm" aria-hidden="true"></i>Lengkapi Informasi</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-divider border-width="30px" border-color="#fafafa" width="450px"></mj-divider>
+
+    <mj-section padding="0px" border-radius="5px" background-color="#fff">
+      <mj-column width="100%">
+        <mj-text font-size="20px" font-weight="600" font-family="Open Sans" color="#454F63" line-height="24px" align="center" padding="25px 15px">
+          Harga Udang Bulan Ini
+        </mj-text>
+        <mj-table>
+          <tr style="border-bottom:1px solid #ecedee;text-align:center;padding:15px 0;">
+            <th style="padding: 10px 15px;">Daerah</th>
+            <th style="padding: 10px 15px;">Harga (size 100)</th>
+          </tr>
+          <tr style="border-bottom:1px solid #ecedee;text-align:center;padding:15px 0;">
+            <td style="padding: 10px 15px;"><a href="https://app.jala.tech/harga_udang/79">Lampung (24 Maret)</a></td>
+            <td style="padding: 10px 15px;">Rp. 43400</td>
+          </tr>
+          <tr style="border-bottom:1px solid #ecedee;text-align:center;padding:15px 0;">
+            <td style="padding: 1px 15px;"><a href="https://app.jala.tech/harga_udang/78">Situbondo (22 Maret)</a></td>
+            <td style="padding: 10px 15px;">Rp. 45000</td>
+          </tr>
+          <tr style="border-bottom:1px solid #ecedee;text-align:center;padding:15px 0;">
+            <td style="padding: 10px 15px;"><a href="https://app.jala.tech/harga_udang/77">Jawa Barat (22 Maret)</a></td>
+            <td style="padding: 10px 15px;">Rp. 48000</td>
+          </tr>
+          <tr style="border-bottom:1px solid #ecedee;text-align:center;padding:15px 0;">
+            <td style="padding: 10px 15px;"><a href="https://app.jala.tech/harga_udang/76">Purworejo (21 Maret)</a></td>
+            <td style="padding: 10px 15px;">Rp. 48000</td>
+          </tr>
+        </mj-table>
+        <mj-button border="1px solid #1B77DF" padding-top="20px" vertical-align="middle" background-color="#1B77DF" font-family="Open Sans" width="275px" color="#fff" font-size="15px" padding-bottom="30px" border-radius="35px" font-weight="600" href="https://app.jala.tech/harga_udang" target="_blank">
+          Lihat Harga Lainnya
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-divider border-width="30px" border-color="#fafafa" width="450px"></mj-divider>
+
+    <mj-section padding="0px" border-radius="5px" background-color="#fff">
+      <mj-column width="100%">
+        <mj-text font-size="20px" font-weight="600" font-family="Open Sans" color="#454F63" line-height="24px" align="center" padding="25px 15px">
+          Kabar Udang Bulan Ini
+        </mj-text>
+      </mj-column>
+      <mj-column width="80%">
+        <mj-image src="https://app.jala.tech/storage/posts/March2019/r0M2yBfvG4RYWnLC88UC.JPG" alt="" border-radius="5px" padding="10px 10px" href="https://app.jala.tech/kabar_udang/11" />
+        <mj-text font-size="17px" font-weight="700" align="center" color="#a7a7a7" font-family="Open Sans" line-height="24px" align="left" padding="5px 10px">
+          Plankton dan Kualitas Air Tambak Udang
+        </mj-text>
+        <mj-button border="1px solid #1B77DF" padding="10px" background-color="#fff" font-family="Open Sans" color="#1B77DF" font-size="12px" border-radius="35px" font-weight="400" href="https://app.jala.tech/kabar_udang/11" target="_blank">
+          Baca Selengkapnya →
+        </mj-button>
+      </mj-column>
+      <mj-column width="80%">
+        <mj-image src="https://app.jala.tech/storage/posts/March2019/hRti2x2KbungSJ530ihK.jpg" alt="" border-radius="5px" padding="10px 10px" href="https://app.jala.tech/kabar_udang/12" />
+        <mj-text font-size="17px" font-weight="700" align="center" color="#a7a7a7" font-family="Open Sans" line-height="24px" align="left" padding="5px 10px">
+          Blooming Plankton di Tambak Udang
+        </mj-text>
+        <mj-button border="1px solid #1B77DF" padding="10px" background-color="#fff" font-family="Open Sans" color="#1B77DF" font-size="12px" border-radius="35px" font-weight="400" href="https://app.jala.tech/kabar_udang/12" target="_blank">
+          Baca Selengkapnya →
+        </mj-button>
+      </mj-column>
+      <mj-column width="80%">
+        <mj-image src="https://app.jala.tech/storage/posts/March2019/VPKya6pGxwseUOu6Aj3I.JPG" alt="" border-radius="5px" padding="10px 10px" href="https://app.jala.tech/kabar_udang/10" />
+        <mj-text font-size="17px" font-weight="700" align="center" color="#a7a7a7" font-family="Open Sans" line-height="24px" align="left" padding="5px 10px">
+          Apakah Early Mortality Syndrome (EMS)?
+        </mj-text>
+        <mj-button border="1px solid #1B77DF" padding="10px" background-color="#fff" font-family="Open Sans" color="#1B77DF" font-size="12px" border-radius="35px" font-weight="400" href="https://app.jala.tech/kabar_udang/10" target="_blank">
+          Baca Selengkapnya →
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-divider border-width="30px" border-color="#fafafa" width="450px"></mj-divider>
+
+
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text padding-bottom="0" align="center" color="#bbb" font-family="Open Sans" font-size="12px" line-height="15px">
+          Jika anda memiliki pertanyaan atau saran, silakan hubungi kami di
+          <b>marketing@jala.tech</b>. Anda juga dapat menghubungi kami melalui telepon atau WhatsApp di
+          <b>+6281215922866</b> selama waktu kerja. Anda dapat berkonsultasi dan berdiskusi dengan tim kami
+          mengenai teknis budidaya, teknis penggunaan alat, dan aplikasi web Jala.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="15px" padding-bottom="0">
+      <mj-column>
+        <mj-text align="center" color="#bbb" font-size="10px" line-height="12px" padding-top="0" padding-bottom="0">
+          Anda menerima e-mail ini karena anda masuk ke dalam milis pengguna layanan informasi budidaya Jala. Jika anda ingin berhenti menerima e-mail dari Jala, gunakan pranala ini <a href="%unsubscribe_url%" style="text-decoration:none;color:#005eac">berhenti berlangganan</a>. Untuk ketentuan privasi penggunaan layanan Jala, lihat di sini <a href="https://jala.tech/id/ketentuan-privasi/" style="text-decoration:none;color:#005eac">ketentuan privasi</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="15px">
+      <mj-column>
+        <mj-text padding-top="0" padding-bottom="0" align="center" color="#bbb">
+          <b>© JALA TECH PTE. LTD.</b><br />JL. KALIURANG KM 16,3, NGEMPLAK, SLEMAN, D.I.YOGYAKARTA, 55584
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-divider border-width="1px" border-color="#ccc" width="450px"></mj-divider>
+
+    <mj-section padding="15px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="24px" mode="horizontal" padding="0">
+          <mj-social-element padding="0 20px" src="https://res.cloudinary.com/rachepd/image/upload/v1549857102/emails/fb-grey.png" href="https://facebook.com/jala.iot">
+
+          </mj-social-element>
+          <mj-social-element padding="0 20px" src="https://res.cloudinary.com/rachepd/image/upload/v1549857103/emails/twitter-grey.png" href="https://twitter.com/jalaiot">
+
+          </mj-social-element>
+          <mj-social-element padding="0 20px" src="https://res.cloudinary.com/rachepd/image/upload/v1549857102/emails/ig-grey.png" href="https://instagram.com/jala.iot">
+
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

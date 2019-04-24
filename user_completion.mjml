@@ -1,0 +1,71 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Open Sans" href="https://fonts.googleapis.com/css?family=Open+Sans" />
+    <mj-preview>
+      Selamat menggunakan Jala, nikmati pengalaman budidaya udang yang lebih mudah
+    </mj-preview>
+    <mj-title>Selamat datang di Jala</mj-title>
+    <mj-style>
+
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="white" width="480px">
+    <mj-section>
+      <mj-column>
+        <mj-image href="https://jala.tech" width="150px" src="https://res.cloudinary.com/rachepd/image/upload/v1548828341/emails/jala-logo.png" alt="" />
+        </mjcolumn>
+    </mj-section>
+    
+      <mj-text font-size="30px" color="#666" 
+      font-family="Open Sans" line-height="50px" align="center" font-weight="900">
+        Lengkapi Informasi Anda di Aplikasi JALA</mj-text>
+        <mj-column width=100%>
+    <mj-image
+       src="https://res.cloudinary.com/astrochimp/image/upload/v1552969457/Email%20User%20Jala/lengkapi_data.png"
+       alt="lengkapi informasi"
+       width="400px" /> 
+    </mj-column>      
+    </mj-hero>
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" font-family="Open Sans" color="rgb(104, 104, 104)" padding-top="0" line-height="20px">
+        Hi {{ $user->email }}, Kita ingin berbagi informasi mengenai pembaharuan fitur JALA, harga udang, kabar udang langsung ke handphone anda.</br>
+        Caranya cukup dengan melengkapi informasi di aplikasi JALA dengan menghubungi tim Jala melalui WhatsApp dengan menekan tombol di bawah ini.
+          </br>
+          </mj-text>
+        <mj-button background-color="#25D366" width="70%" font-weight="500" font-size="18px" border-radius="35px" href="https://api.whatsapp.com/send?phone=6281215922866&text=Dari%20%3A%20{{ $user->email }}%0AVerifikasi%20Nomor%20JALA" target="_blank"><i class="fa fa-2x fa-whatsapp m-r-sm" aria-hidden="true"></i>Tekan Tombol Ini</mj-button>
+        <mj-text align="center" font-family="Open Sans" color="rgb(104, 104, 104)" font-size="18px" font-weight="700" padding-top="0" line-height="20px"></br>Atau balas e-mail ini dengan mencantumkan nama dan nomor handphone anda.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-divider border-width="1.5px" border-color="#bbb" width="80%"></mj-divider>
+    <mj-section css-class="footer">
+      <mj-column>
+        <mj-text align="center" color="#bbb" font-family="Open Sans" font-size="12px" line-height="15px">
+        Jika anda memiliki pertanyaan atau saran, silakan hubungi kami di
+          <b>contact@jala.tech</b>. Anda juga dapat menghubungi kami melalui telepon atau WhatsApp di 
+          <b>+6281215922866</b> selama waktu kerja. Anda dapat berkonsultasi dan berdiskusi dengan tim kami
+          mengenai teknis budidaya, teknis penggunaan alat, dan aplikasi web Jala.</mj-text>
+        <mj-raw>
+          <!--//CONTENT TABLE//-->
+          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+              <td valign="top" class="social-media-container" style="text-align: center; padding: 20px 20px 10px 20px;">
+                <a href="https://facebook.com/jala.iot" style="margin: 10px 10px 5px 10px;"><img src="https://res.cloudinary.com/da8fdijsc/image/upload/v1544972028/fb.png" class="social-media" /></a>
+                <a href="https://twitter.com/jalaiot" style="margin: 10px 10px 5px 10px;"><img src="https://res.cloudinary.com/da8fdijsc/image/upload/v1544972029/twitter.png" class="social-media" /></a>
+                <a href="https://instagram.com/jala.iot" style="margin: 10px 10px 5px 10px;"><img src="https://res.cloudinary.com/da8fdijsc/image/upload/v1544972028/ig.png" class="social-media" /></a>
+              </td>
+            </tr>
+          </table>
+        </mj-raw>
+        <mj-text align="center" color="#bbb"><b>© JALA TECH PTE. LTD.</b><br />JL. KALIURANG KM 16,3, NGEMPLAK, SLEMAN, D.I.YOGYAKARTA, 55584</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" color="#bbb" font-size="10px" line-height="12px">
+          Anda menerima e-mail ini karena anda masuk ke dalam milis pengguna layanan informasi budidaya Jala. Jika anda ingin berhenti menerima e-mail dari Jala, gunakan pranala ini <a href="[[UNSUB_LINK_EN]]" style="text-decoration:none;color:#005eac">berhenti berlangganan</a>. Untuk ketentuan privasi penggunaan layanan Jala, lihat di sini <a href="https://jala.tech/id/ketentuan-privasi/" style="text-decoration:none;color:#005eac">ketentuan privasi</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

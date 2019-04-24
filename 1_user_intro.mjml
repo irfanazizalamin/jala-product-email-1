@@ -1,0 +1,63 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Open Sans" href="https://fonts.googleapis.com/css?family=Open+Sans" />
+    <mj-preview>
+      Selamat menggunakan Jala, nikmati pengalaman budidaya udang yang lebih mudah
+    </mj-preview>
+    <mj-title>Selamat datang di Jala</mj-title>
+    <mj-style>
+
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="white" width="480px">
+    <mj-section>
+      <mj-column>
+        <mj-image href="https://jala.tech" width="150px" src="https://res.cloudinary.com/rachepd/image/upload/v1548828341/emails/jala-logo.png" alt="" />
+        </mjcolumn>
+    </mj-section>
+    <mj-hero mode="fluid-height" background-width="700px" background-height="500px" background-color="#D2E7FF" padding="30px 0px" background-url="https://res.cloudinary.com/astrochimp/image/upload/v1548231386/welcome_bg.png">
+      <mj-text font-size="40px" color="#a0a0a0" 
+      font-family="Open Sans" line-height="50px" align="center" font-weight="900">
+        Selamat datang di Jala</mj-text>
+    </mj-hero>
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" font-family="Open Sans" color="rgb(104, 104, 104)" padding-top="0" line-height="20px">
+        Selamat, anda telah berhasil melakukan verifikasi akun anda. Anda telah selangkah lebih maju untuk menjalankan budidaya udang yang lebih baik dan mudah.
+          </br></br>
+          Kami akan membantu sebisa mungkin dalam setiap proses budidaya anda.</mj-text>
+        <mj-button background-color="#63cbea" width="50%" font-weight="500" font-size="18px" border-radius="35px" href="hhttps://app.jala.tech/home" target="_blank"> Mulai Budidaya </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-divider border-width="1.5px" border-color="#bbb" width="80%"></mj-divider>
+    <mj-section css-class="footer">
+      <mj-column>
+        <mj-text align="center" color="#bbb" font-family="Open Sans" font-size="12px" line-height="15px">
+        Jika anda memiliki pertanyaan atau saran, silakan hubungi kami di
+          <b>contact@jala.tech</b>. Anda juga dapat menghubungi kami melalui telepon atau WhatsApp di 
+          <b>+6285723788859</b> selama waktu kerja. Anda dapat berkonsultasi dan berdiskusi dengan tim kami
+          mengenai teknis budidaya, teknis penggunaan alat, dan aplikasi web Jala.</mj-text>
+        <mj-raw>
+          <!--//CONTENT TABLE//-->
+          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+              <td valign="top" class="social-media-container" style="text-align: center; padding: 20px 20px 10px 20px;">
+                <a href="https://facebook.com/jala.iot" style="margin: 10px 10px 5px 10px;"><img src="https://res.cloudinary.com/da8fdijsc/image/upload/v1544972028/fb.png" class="social-media" /></a>
+                <a href="https://twitter.com/jalaiot" style="margin: 10px 10px 5px 10px;"><img src="https://res.cloudinary.com/da8fdijsc/image/upload/v1544972029/twitter.png" class="social-media" /></a>
+                <a href="https://instagram.com/jala.iot" style="margin: 10px 10px 5px 10px;"><img src="https://res.cloudinary.com/da8fdijsc/image/upload/v1544972028/ig.png" class="social-media" /></a>
+              </td>
+            </tr>
+          </table>
+        </mj-raw>
+        <mj-text align="center" color="#bbb"><b>© JALA TECH PTE. LTD.</b><br />JL. KALIURANG KM 16,3, NGEMPLAK, SLEMAN, D.I.YOGYAKARTA, 55584</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" color="#bbb" font-size="10px" line-height="12px">
+          Anda menerima e-mail ini karena anda masuk ke dalam milis pengguna layanan informasi budidaya Jala. Jika anda ingin berhenti menerima e-mail dari Jala, gunakan pranala ini <a href="[[UNSUB_LINK_EN]]" style="text-decoration:none;color:#005eac">berhenti berlangganan</a>. Untuk ketentuan privasi penggunaan layanan Jala, lihat di sini <a href="https://jala.tech/id/ketentuan-privasi/" style="text-decoration:none;color:#005eac">ketentuan privasi</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

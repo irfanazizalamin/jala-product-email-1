@@ -1,0 +1,96 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Montserrat" href="https://fonts.googleapis.com/css?family=Montserrat" />
+    <mj-preview>
+      Pantau dan kelola budidaya udang anda dengan aplikasi Web JALA
+    </mj-preview>
+    <mj-breakpoint width="320px" />
+    <mj-title>Coba Aplikasi Web Jala</mj-title>
+    <mj-style>
+
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="white" width="480px
+  ">
+    <mj-hero mode="fluid-height" max-height="700px" width="100%" background-width="600px" background-height="469px" background-url="https://res.cloudinary.com/astrochimp/image/upload/c_scale,w_1000/v1545882505/header.png" background-color="#2a3448" padding="30px 0px">
+      <mj-image href="https://jala.tech" width="100px" src="https://res.cloudinary.com/astrochimp/image/upload/v1545832796/logo.png"></mj-image>
+      <mj-text font-size="25px" color="#FFF" line-height="40px" font-family="Montserrat" align="center" font-weight="700">
+      Kelola budidaya udang anda dengan aplikasi web </mj-text> 
+      <mj-spacer height="300px"></mj-spacer>
+    </mj-hero>
+    <mj-section>
+      <mj-column>
+      <mj-text align="center" font-size="18px" font-weight="600" color="#333" padding-top="0" line-height="25px">
+          Perkenalkan, Aplikasi Web Jala
+      </mj-text>
+        <mj-text align="center" color="rgb(104, 104, 104)" padding-top="0" line-height="20px">
+        Catat data dan informasi budidaya daya udang anda seperti kualitas air, pakan harian, sampling hingga panen dengan aplikasi web Jala.
+        </br></br>
+         Jala akan mengolah catatan anda menjadi informasi yang lebih baik untuk membantu keputusan budidaya anda. </mj-text>
+        <mj-button background-color="#f47829" width="60%" font-size="20px" border-radius="35px" href="https://app.jala.tech" target="_blank"> Coba Sekarang </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    <mj-column>
+    <mj-text align="center" font-size="18px" font-weight="600" color="#333">
+                Catatan Budidaya
+            </mj-text>
+        <mj-image width="120px" src="https://res.cloudinary.com/astrochimp/image/upload/c_scale,w_50/v1540991046/decision.svg" alt="" />
+        
+            <mj-text align="center" color="rgb(104, 104, 104)">
+                Catat informasi budidaya anda seperti kualitas air, pakan harian, hasil sampling dan panen anda di satu tempat, akses dengan mudah kapan pun dan di mana pun melalui gawai anda.
+            </mj-text>
+    </mj-column>
+    </mj-section>
+    <mj-section>
+    <mj-column>
+    <mj-text align="center" font-size="18px" font-weight="600" color="#333">
+                Analisis dan Prediksi Budidaya
+            </mj-text>
+        <mj-image width="120px" src="https://res.cloudinary.com/astrochimp/image/upload/c_scale,w_50/v1540992036/predict.svg" alt="" />
+        
+            <mj-text align="center"  color="rgb(104, 104, 104)">
+                Catat informasi budidaya anda seperti kualitas air, pakan harian, hasil sampling dan panen anda di satu tempat, akses dengan mudah kapan pun dan di mana pun melalui gawai anda.
+            </mj-text>
+    </mj-column>
+    </mj-section>
+    <mj-section>
+    <mj-column>
+    <mj-text align="center" font-size="18px" font-weight="600" color="#333">
+                Tetap terhubung dengan tambak anda
+            </mj-text>
+        <mj-image width="120px" src="https://res.cloudinary.com/astrochimp/image/upload/v1540995369/custom.svg" alt="" />
+        
+            <mj-text align="center" color="rgb(104, 104, 104)">
+                Catat informasi budidaya anda seperti kualitas air, pakan harian, hasil sampling dan panen anda di satu tempat, akses dengan mudah kapan pun dan di mana pun melalui gawai anda.
+            </mj-text>
+    </mj-section>
+    <mj-divider border-width="1.5px" border-color="rgb(104, 104, 104)" width="80%"></mj-divider>
+    <mj-section css-class="footer">
+      <mj-column>
+      <mj-text align="center" color="rgb(104, 104, 104)">Info lebih lanjut hubungi:<br />
+          <b>contact@jala.tech</b> / +6285723788859</mj-text>
+        <mj-raw>
+          <!--//CONTENT TABLE//-->
+          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+              <td valign="top" class="social-media-container" style="text-align: center; padding: 20px 20px 10px 20px;">
+                <a href="https://facebook.com/jala.iot" style="margin: 10px 10px 5px 10px;"><img src="https://res.cloudinary.com/da8fdijsc/image/upload/v1544972028/fb.png" class="social-media" /></a>
+                <a href="https://twitter.com/jalaiot" style="margin: 10px 10px 5px 10px;"><img src="https://res.cloudinary.com/da8fdijsc/image/upload/v1544972029/twitter.png" class="social-media" /></a>
+                <a href="https://instagram.com/jala.iot" style="margin: 10px 10px 5px 10px;"><img src="https://res.cloudinary.com/da8fdijsc/image/upload/v1544972028/ig.png" class="social-media" /></a>
+              </td>
+            </tr>
+          </table>
+        </mj-raw>
+         <mj-text align="center" color="rgb(104, 104, 104)"><b>© JALA TECH PTE. LTD.</b><br />JL. KALIURANG KM 16,3, NGEMPLAK, SLEMAN, D.I.YOGYAKARTA, 55584</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" color="rgb(104, 104, 104)" font-size="10px" line-height="12px">
+          Anda menerima e-mail ini karena anda masuk ke dalam milis pengguna layanan informasi budidaya Jala. Jika anda ingin berhenti menerima e-mail dari Jala, gunakan pranala ini <a href="[[UNSUB_LINK_EN]]" style="text-decoration:none;color:#005eac">berhenti berlangganan</a>. Untuk ketentuan privasi penggunaan layanan Jala, lihat di sini <a href="https://jala.tech/id/ketentuan-privasi/" style="text-decoration:none;color:#005eac">ketentuan privasi</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+  </mjml>
