@@ -1,0 +1,144 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Open Sans" href="https://fonts.googleapis.com/css?family=Open+Sans" />
+    <mj-preview>
+      Berikut adalah kabar udang Jala untuk {tag user} bulan ini.
+    </mj-preview>
+    <mj-title>Pentingnya Menjaga Kualitas Air untuk Budidaya Udang Anda</mj-title>
+    <mj-style>
+
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#f9f9f9" width="480px">
+    <mj-section>
+      <mj-column>
+        <mj-image href="https://jala.tech" width="100px" src="https://res.cloudinary.com/rachepd/image/upload/v1548828341/emails/jala-logo.png" alt="" />
+        </mjcolumn>
+    </mj-section>
+
+    <mj-section background-color="#fafafa" padding-top="0">
+      <mj-column width="100%">
+        <mj-text font-size="24px" font-weight="800" font-family="Open Sans" color="#454F63" line-height="24px" align="center" padding="10px 15px">
+          Apa saja yang baru di Agustus ?
+        </mj-text>
+        <mj-text font-size="15px" font-weight="600" font-family="Open Sans" color="#454F63" line-height="24px" align="center" padding="10px 15px">
+          Kualitas air budidaya yang terjaga menghasilkan udang budidaya sehat dan berkualitas, produksi menjadi lebih efisien, dan minim pengaruh buruk ke lingkungan. Berikut adalah daftar Kabar Udang Jala bulan ini mengenai kualitas air di kolam anda. Selamat membaca 🙂.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-divider border-width="30px" border-color="#f9f9f9" width="450px"></mj-divider>
+
+    <mj-section padding="0px" border-radius="5px" background-color="#fff">
+      <mj-column width="100%">
+        <mj-text font-size="20px" font-weight="600" font-family="Open Sans" color="#454F63" line-height="24px" align="center" padding="25px 15px">
+          Kabar Udang Bulan Ini
+        </mj-text>
+      </mj-column>
+      <mj-column width="80%">
+        <mj-image src="https://app.jala.tech/storage/posts/August2019/NikY8osQ648XZX04CoQw.jpg" alt="" border-radius="5px" padding="10px 10px" href="https://app.jala.tech/kabar_udang/pengaruh-suhu-terhadap-udang" />
+        <mj-text font-size="17px" font-weight="700" align="center" color="#a7a7a7" font-family="Open Sans" line-height="24px" align="left" padding="5px 10px">
+          Pengaruh Suhu Terhadap Udang
+        </mj-text>
+        <mj-text font-size="15px" font-weight="700" align="center" color="#a7a7a7" font-family="Open Sans" line-height="24px" align="left" padding="5px 10px">
+          Belakangan ini suhu dingin melanda sebagian wilayah Indonesia. Suhu dingin ini nampaknya secara langsung maupun tidak berpengaruh pada udang di tambak. Apa saja pengaruh suhu terhadap udang?
+        </mj-text>
+        <mj-button border="1px solid #1B77DF" padding="10px" background-color="#fff" font-family="Open Sans" color="#1B77DF" font-size="12px" border-radius="35px" font-weight="400" href="https://app.jala.tech/kabar_udang/pengaruh-suhu-terhadap-udang" target="_blank">
+          Baca Selengkapnya →
+        </mj-button>
+      </mj-column>
+      <mj-column width="80%">
+        <mj-image src="https://app.jala.tech/storage/posts/August2019/OLceRN0ksawy292P4Lax.jpg" alt="" border-radius="5px" padding="10px 10px" href="https://app.jala.tech/kabar_udang/kebutuhan-oksigen-di-tambak-udang" />
+        <mj-text font-size="17px" font-weight="700" align="center" color="#a7a7a7" font-family="Open Sans" line-height="24px" align="left" padding="5px 10px">
+          Kebutuhan Oksigen di Tambak Udang
+        </mj-text>
+        <mj-text font-size="15px" font-weight="700" align="center" color="#a7a7a7" font-family="Open Sans" line-height="24px" align="left" padding="5px 10px">
+          Oksigen berperan penting dalam respirasi dan reaksi metabolisme organisme di kolam tambak udang seperti udang, plankton, dan bakteri. Berikut adalah faktor yang mempengaruhi oksigen terlaurt serta
+        </mj-text>
+        <mj-button border="1px solid #1B77DF" padding="10px" background-color="#fff" font-family="Open Sans" color="#1B77DF" font-size="12px" border-radius="35px" font-weight="400" href="https://app.jala.tech/kabar_udang/kebutuhan-oksigen-di-tambak-udang" target="_blank">
+          Baca Selengkapnya →
+        </mj-button>
+      </mj-column>
+      <mj-column width="80%">
+        <mj-image src="https://app.jala.tech/storage/posts/August2019/OwWcb2TMMFBkxw29jXkZ.jpg" alt="" border-radius="5px" padding="10px 10px" href="https://app.jala.tech/kabar_udang/peran-kincir-menjaga-oksigen-terlarut-do" />
+        <mj-text font-size="17px" font-weight="700" align="center" color="#a7a7a7" font-family="Open Sans" line-height="24px" align="left" padding="5px 10px">
+          Peran Kincir Menjaga Oksigen Terlarut (DO)
+        </mj-text>
+        <mj-text font-size="15px" font-weight="700" align="center" color="#a7a7a7" font-family="Open Sans" line-height="24px" align="left" padding="5px 10px">
+          Peran kincir sangat vital sebagai sumber DO, selain itu berperan mencegah stratifikasi variabel kualitas air (DO, pH, plankton, dan salinitas), mengatur posisi sedimen akan diendapkan, memaksimalkan feeding area, dan mengurangi daerah mati. Oksigen yang dibutuhkan bertambah seiring dengan meningkatnya biomassa udang di tambak.
+        </mj-text>
+        <mj-button border="1px solid #1B77DF" padding="10px" background-color="#fff" font-family="Open Sans" color="#1B77DF" font-size="12px" border-radius="35px" font-weight="400" href="https://app.jala.tech/kabar_udang/peran-kincir-menjaga-oksigen-terlarut-do" target="_blank">
+          Baca Selengkapnya →
+        </mj-button>
+      </mj-column>
+      <mj-column width="80%">
+        <mj-image src="https://app.jala.tech/storage/posts/August2019/nJ4sYhNcj76B0esbsu1Q.jpg" alt="" border-radius="5px" padding="10px 10px" href="https://app.jala.tech/kabar_udang/menjaga-stabilitas-ph-air-tambak" />
+        <mj-text font-size="17px" font-weight="700" align="center" color="#a7a7a7" font-family="Open Sans" line-height="24px" align="left" padding="5px 10px">
+          Menjaga Stabilitas pH Tambak
+        </mj-text>
+        <mj-text font-size="15px" font-weight="700" align="center" color="#a7a7a7" font-family="Open Sans" line-height="24px" align="left" padding="5px 10px">
+          pH adalah derajat keasaman yang digunakan untuk menyatakan tingkat keasaman atau kebasaan suatu larutan, didefinisikan berdasar aktivitas ion hidrogen yang terlarut. Perlunya menjaga stabilitas pH di kisaran aman adalah agar tidak berpengaruh pada metabolisme dan kondisi fisiologi udang.
+        </mj-text>
+        <mj-button border="1px solid #1B77DF" padding="10px" background-color="#fff" font-family="Open Sans" color="#1B77DF" font-size="12px" border-radius="35px" font-weight="400" href="https://app.jala.tech/kabar_udang/menjaga-stabilitas-ph-air-tambak" target="_blank">
+          Baca Selengkapnya →
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-divider border-width="30px" border-color="#fafafa" width="450px"></mj-divider>
+
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text padding-bottom="0" align="center" color="#bbb" font-family="Open Sans" font-size="12px" line-height="15px">
+          Jika anda memiliki pertanyaan atau saran, silakan hubungi kami di
+          <b>contact@jala.tech</b>. Anda juga dapat menghubungi kami melalui telepon atau WhatsApp di
+          <b>+6281215922866</b> selama waktu kerja. Anda dapat berkonsultasi dan berdiskusi dengan tim kami
+          mengenai teknis budidaya, teknis penggunaan alat, dan aplikasi web Jala.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding-top="0" background-color="#fff">
+      <mj-column width="35%">
+        <mj-text padding-bottom="0" align="center" color="#bbb" font-family="Open Sans" font-size="12px" line-height="15px">
+          Download the App:
+        </mj-text>
+        <mj-image src="https://play.google.com/intl/en_us/badges/images/badge_new.png"/>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="15px" padding-bottom="0">
+      <mj-column>
+        <mj-text align="center" color="#bbb" font-size="10px" line-height="12px" padding-top="0" padding-bottom="0">
+          Anda menerima e-mail ini karena anda masuk ke dalam milis pengguna layanan informasi budidaya Jala. Jika anda ingin berhenti menerima e-mail dari Jala, gunakan pranala ini <a href="%unsubscribe_url%" style="text-decoration:none;color:#005eac">berhenti berlangganan</a>. Untuk ketentuan privasi penggunaan layanan Jala, lihat di sini <a href="https://jala.tech/id/ketentuan-privasi/" style="text-decoration:none;color:#005eac">ketentuan privasi</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="15px">
+      <mj-column>
+        <mj-text padding-top="0" padding-bottom="0" align="center" color="#bbb">
+          <b>© JALA TECH PTE. LTD.</b><br />JL. KALIURANG KM 16,3, NGEMPLAK, SLEMAN, D.I.YOGYAKARTA, 55584
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-divider border-width="1px" border-color="#ccc" width="450px"></mj-divider>
+
+    <mj-section padding="15px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="24px" mode="horizontal" padding="0">
+          <mj-social-element padding="0 20px" src="https://res.cloudinary.com/rachepd/image/upload/v1549857102/emails/fb-grey.png" href="https://facebook.com/jala.iot">
+
+          </mj-social-element>
+          <mj-social-element padding="0 20px" src="https://res.cloudinary.com/rachepd/image/upload/v1549857103/emails/twitter-grey.png" href="https://twitter.com/jalaiot">
+
+          </mj-social-element>
+          <mj-social-element padding="0 20px" src="https://res.cloudinary.com/rachepd/image/upload/v1549857102/emails/ig-grey.png" href="https://instagram.com/jala.iot">
+
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
